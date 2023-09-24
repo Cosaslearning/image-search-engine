@@ -1,3 +1,5 @@
+![Screenshot_3](https://github.com/Cosaslearning/image-search-engine/assets/100014446/61834461-2275-4ace-b0aa-e74f17ff0da4)
+
 This code appears to be for a simple web-based image search engine. It consists of three main parts: an HTML file for the structure of the webpage, a CSS file for styling, and a JavaScript file for handling user interactions and making API requests. Let's break down the code with explanations and comments:
 
 **HTML File (index.html):**
